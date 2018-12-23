@@ -1,0 +1,5 @@
+.env
+.nvmrc
+node_modules
+dist
+/testers
